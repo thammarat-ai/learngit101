@@ -1,4 +1,4 @@
-# learngit101
+# learnGit101
 สอนใช้ GitHub แบบไวๆ
 
 เขียนโดย *ฉันเอง*
@@ -8,4 +8,4 @@
 2. lab HTML
 
 
-![แมวปลาหมึก](https://media.thetoychronicle.com/wp-content/uploads/2014/10/OCTOCAT-By-GiTHub-x-Andrew-Bell-x-Deadzebra-TTC-banner-.jpg55)
+![แมวปลาหมึก](https://media.thetoychronicle.com/wp-content/uploads/2014/10/OCTOCAT-By-GiTHub-x-Andrew-Bell-x-Deadzebra-TTC-banner-.jpg)
